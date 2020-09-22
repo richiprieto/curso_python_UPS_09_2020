@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (188734 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-2.2186836" minlon="-79.6289062" maxlat="-2.2077055" maxlon="-79.6179199"/>
+ <node id="4371587919" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2046491" lon="-79.6202984"/>
+ <node id="4371587932" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2047142" lon="-79.6203604"/>
+ <node id="4371587933" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2048449" lon="-79.6204972"/>
+ <node id="4371587934" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2050531" lon="-79.6207424"/>
+ <node id="4371587935" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2052471" lon="-79.6209243"/>
+ <node id="4371587936" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2054696" lon="-79.6211347"/>
+ <node id="4371587937" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2057575" lon="-79.6214105"/>
+ <node id="4371587938" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2059882" lon="-79.6216291"/>
+ <node id="4371587939" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2062311" lon="-79.6218294"/>
+ <node id="4371587940" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2062679" lon="-79.6219050"/>
+ <node id="4371587941" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2063046" lon="-79.6219540"/>
+ <node id="4371587942" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2064190" lon="-79.6220562"/>
+ <node id="4371587943" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2065741" lon="-79.6222033"/>
+ <node id="4371587944" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2066926" lon="-79.6223238"/>
+ <node id="4371587945" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2068191" lon="-79.6224300"/>
+ <node id="4371587946" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2069457" lon="-79.6225118"/>
+ <node id="4371587947" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2070193" lon="-79.6225838"/>
+ <node id="4371587948" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:28Z" user="faustodc" uid="2066928" lat="-2.2070719" lon="-79.6226303"/>
+ <node id="4371587949" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2072638" lon="-79.6227387"/>
+ <node id="4371587950" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2074201" lon="-79.6228331"/>
+ <node id="4371587951" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2075866" lon="-79.6230040"/>
+ <node id="4371587952" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2076567" lon="-79.6230580"/>
+ <node id="4371587953" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2076836" lon="-79.6231011"/>
+ <node id="4371587954" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2077079" lon="-79.6231847"/>
+ <node id="4371587955" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2077294" lon="-79.6232251"/>
+ <node id="4371587956" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928" lat="-2.2077644" lon="-79.6232440"/>
+ <node id="6707875900" visible="true" version="1" changeset="73314493" timestamp="2019-08-13T15:27:10Z" user="LLAQWA" uid="77114" lat="-2.2088204" lon="-79.6281338">
+  <tag k="name" v="El Tintal"/>
+  <tag k="place" v="hamlet"/>
+ </node>
+ <way id="439524792" visible="true" version="1" changeset="41758969" timestamp="2016-08-28T16:10:29Z" user="faustodc" uid="2066928">
+  <nd ref="4371587919"/>
+  <nd ref="4371587932"/>
+  <nd ref="4371587933"/>
+  <nd ref="4371587934"/>
+  <nd ref="4371587935"/>
+  <nd ref="4371587936"/>
+  <nd ref="4371587937"/>
+  <nd ref="4371587938"/>
+  <nd ref="4371587939"/>
+  <nd ref="4371587940"/>
+  <nd ref="4371587941"/>
+  <nd ref="4371587942"/>
+  <nd ref="4371587943"/>
+  <nd ref="4371587944"/>
+  <nd ref="4371587945"/>
+  <nd ref="4371587946"/>
+  <nd ref="4371587947"/>
+  <nd ref="4371587948"/>
+  <nd ref="4371587949"/>
+  <nd ref="4371587950"/>
+  <nd ref="4371587951"/>
+  <nd ref="4371587952"/>
+  <nd ref="4371587953"/>
+  <nd ref="4371587954"/>
+  <nd ref="4371587955"/>
+  <nd ref="4371587956"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

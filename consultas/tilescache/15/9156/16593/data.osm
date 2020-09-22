@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (133084 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-2.3065057" minlon="-79.4091797" maxlat="-2.2955282" maxlon="-79.3981934"/>
+ <node id="3887702592" visible="true" version="1" changeset="35885415" timestamp="2015-12-11T14:54:21Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2867164" lon="-79.4012410"/>
+ <node id="3887702593" visible="true" version="1" changeset="35885415" timestamp="2015-12-11T14:54:21Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2865877" lon="-79.4015628"/>
+ <node id="3887702595" visible="true" version="1" changeset="35885415" timestamp="2015-12-11T14:54:21Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2860517" lon="-79.3999535"/>
+ <node id="3887702603" visible="true" version="1" changeset="35885415" timestamp="2015-12-11T14:54:21Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3032577" lon="-79.4017871"/>
+ <node id="3887702607" visible="true" version="1" changeset="35885415" timestamp="2015-12-11T14:54:21Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2938346" lon="-79.4008118"/>
+ <node id="3896994170" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2958821" lon="-79.4066695"/>
+ <node id="3896994174" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2935129" lon="-79.4006721"/>
+ <node id="3896994176" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2978760" lon="-79.3992881"/>
+ <node id="3896994178" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2933306" lon="-79.4003395"/>
+ <node id="3896994179" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2932663" lon="-79.4001250"/>
+ <node id="3896994184" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2937916" lon="-79.3995671"/>
+ <node id="3896994186" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2960063" lon="-79.4010366"/>
+ <node id="3896994199" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2956784" lon="-79.4076673"/>
+ <node id="3896994202" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2936405" lon="-79.4007904"/>
+ <node id="3896994205" visible="true" version="2" changeset="49887881" timestamp="2017-06-28T13:05:14Z" user="LLAQWA" uid="77114" lat="-2.3083625" lon="-79.3997173"/>
+ <node id="3896994206" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2893936" lon="-79.4123923"/>
+ <node id="3896994212" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3021314" lon="-79.3994276"/>
+ <node id="3896994213" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2939417" lon="-79.3995992"/>
+ <node id="3896994222" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2941561" lon="-79.3995885"/>
+ <node id="3896994223" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3065267" lon="-79.3997173"/>
+ <node id="3896994224" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2934164" lon="-79.4005434"/>
+ <node id="3896994225" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3033642" lon="-79.3994920"/>
+ <node id="3896994234" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2934378" lon="-79.3998889"/>
+ <node id="3896994237" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2955819" lon="-79.3992881"/>
+ <node id="3896994244" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3078024" lon="-79.3998567"/>
+ <node id="3896994245" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2918512" lon="-79.4073455"/>
+ <node id="3896994251" visible="true" version="2" changeset="49887881" timestamp="2017-06-28T13:05:14Z" user="LLAQWA" uid="77114" lat="-2.3077600" lon="-79.4022160"/>
+ <node id="3999977418" visible="true" version="1" changeset="37137272" timestamp="2016-02-11T00:04:07Z" user="agranizo" uid="1799232" lat="-2.2904662" lon="-79.4101896"/>
+ <node id="4940400642" visible="true" version="1" changeset="49887881" timestamp="2017-06-28T13:04:47Z" user="LLAQWA" uid="77114" lat="-2.2860956" lon="-79.4014404"/>
+ <node id="4940400984" visible="true" version="1" changeset="49887881" timestamp="2017-06-28T13:04:53Z" user="LLAQWA" uid="77114" lat="-2.3081593" lon="-79.4022462"/>
+ <way id="386381144" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626">
+  <nd ref="3896994199"/>
+  <nd ref="3896994170"/>
+  <nd ref="3896994186"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="386381147" visible="true" version="2" changeset="37137272" timestamp="2016-02-11T00:04:07Z" user="agranizo" uid="1799232">
+  <nd ref="3896994206"/>
+  <nd ref="3999977418"/>
+  <nd ref="3896994245"/>
+  <nd ref="3896994199"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="386381148" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626">
+  <nd ref="3896994205"/>
+  <nd ref="3896994244"/>
+  <nd ref="3896994223"/>
+  <nd ref="3896994225"/>
+  <nd ref="3896994212"/>
+  <nd ref="3896994176"/>
+  <nd ref="3896994237"/>
+  <nd ref="3896994222"/>
+  <nd ref="3896994213"/>
+  <nd ref="3896994184"/>
+  <nd ref="3896994234"/>
+  <nd ref="3896994179"/>
+  <nd ref="3896994178"/>
+  <nd ref="3896994224"/>
+  <nd ref="3896994174"/>
+  <nd ref="3896994202"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="503776238" visible="true" version="2" changeset="63872585" timestamp="2018-10-25T15:54:02Z" user="navakate" uid="8867093">
+  <nd ref="4940400984"/>
+  <nd ref="3896994251"/>
+  <nd ref="3887702603"/>
+  <nd ref="3896994186"/>
+  <nd ref="3887702607"/>
+  <nd ref="3896994202"/>
+  <nd ref="3887702595"/>
+  <nd ref="3887702592"/>
+  <nd ref="3887702593"/>
+  <nd ref="4940400642"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Via Atascoso-Niagra"/>
+ </way>
+</osm>

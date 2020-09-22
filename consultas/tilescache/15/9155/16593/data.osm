@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (851163 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-2.3065057" minlon="-79.4201660" maxlat="-2.2955282" maxlon="-79.4091797"/>
+ <node id="3886372234" visible="true" version="2" changeset="79621987" timestamp="2020-01-15T21:04:28Z" user="XL45" uid="1783980" lat="-2.3059459" lon="-79.4164632"/>
+ <node id="3886372237" visible="true" version="2" changeset="79621987" timestamp="2020-01-15T21:04:28Z" user="XL45" uid="1783980" lat="-2.3134608" lon="-79.4170533"/>
+ <node id="3886372240" visible="true" version="2" changeset="79621987" timestamp="2020-01-15T21:04:28Z" user="XL45" uid="1783980" lat="-2.3102554" lon="-79.4168065"/>
+ <node id="3886372243" visible="true" version="2" changeset="79621987" timestamp="2020-01-15T21:04:28Z" user="XL45" uid="1783980" lat="-2.3183169" lon="-79.4173966"/>
+ <node id="3896994218" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:24Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2950030" lon="-79.4106392"/>
+ <node id="3896994229" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2957641" lon="-79.4127635"/>
+ <node id="3896994236" visible="true" version="2" changeset="37296651" timestamp="2016-02-18T20:24:40Z" user="Ecuador Tur" uid="72349" lat="-2.2957932" lon="-79.4116566"/>
+ <node id="3896994242" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2979403" lon="-79.4108645"/>
+ <node id="3896994246" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2909829" lon="-79.4102315"/>
+ <node id="3896994250" visible="true" version="1" changeset="36014875" timestamp="2015-12-17T18:32:25Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.2878097" lon="-79.4099740"/>
+ <node id="3999977418" visible="true" version="1" changeset="37137272" timestamp="2016-02-11T00:04:07Z" user="agranizo" uid="1799232" lat="-2.2904662" lon="-79.4101896"/>
+ <node id="4013401611" visible="true" version="1" changeset="37296651" timestamp="2016-02-18T20:24:40Z" user="Ecuador Tur" uid="72349" lat="-2.2957874" lon="-79.4106994"/>
+ <node id="4275727935" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:58Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3110942" lon="-79.4215499"/>
+ <node id="4275727941" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3206780" lon="-79.4200586"/>
+ <node id="4275727942" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3201736" lon="-79.4217612"/>
+ <node id="4275727946" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3155538" lon="-79.4215177"/>
+ <node id="4275727950" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3165293" lon="-79.4196616"/>
+ <node id="4275727951" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3031613" lon="-79.4199405"/>
+ <node id="4275727972" visible="true" version="1" changeset="40418037" timestamp="2016-07-01T14:21:59Z" user="KEVINGARMIN62S" uid="1945626" lat="-2.3032042" lon="-79.4216035"/>
+ <node id="7134053738" visible="true" version="2" changeset="90928959" timestamp="2020-09-15T13:18:39Z" user="erickdeoliveiraleal" uid="463504" lat="-2.3188151" lon="-79.4174208"/>
+ <node id="7134053740" visible="true" version="1" changeset="79621987" timestamp="2020-01-15T21:04:28Z" user="XL45" uid="1783980" lat="-2.3112819" lon="-79.4168855"/>
+ <way id="386381146" visible="true" version="3" changeset="37296651" timestamp="2016-02-18T20:24:42Z" user="Ecuador Tur" uid="72349">
+  <nd ref="3896994242"/>
+  <nd ref="4013401611"/>
+  <nd ref="3896994218"/>
+  <nd ref="3896994246"/>
+  <nd ref="3999977418"/>
+  <nd ref="3896994250"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="386381150" visible="true" version="2" changeset="37296651" timestamp="2016-02-18T20:24:42Z" user="Ecuador Tur" uid="72349">
+  <nd ref="3896994229"/>
+  <nd ref="3896994236"/>
+  <nd ref="4013401611"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="428480158" visible="true" version="2" changeset="48424428" timestamp="2017-05-05T11:41:02Z" user="Heinz_V" uid="91490">
+  <nd ref="4275727972"/>
+  <nd ref="4275727951"/>
+  <nd ref="4275727950"/>
+  <nd ref="4275727941"/>
+  <nd ref="4275727942"/>
+  <nd ref="4275727946"/>
+  <nd ref="4275727935"/>
+  <nd ref="4275727972"/>
+  <tag k="landuse" v="farmland"/>
+ </way>
+ <way id="847542193" visible="true" version="1" changeset="90928959" timestamp="2020-09-15T13:18:39Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="7134053738"/>
+  <nd ref="3886372243"/>
+  <nd ref="3886372237"/>
+  <nd ref="7134053740"/>
+  <nd ref="3886372240"/>
+  <nd ref="3886372234"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+</osm>

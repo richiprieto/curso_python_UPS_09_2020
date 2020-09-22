@@ -1,0 +1,64 @@
+categories:
+- corpus_finsolred
+conversations:
+
+# saludos
+- - buenos dias necesito ayuda
+  - Buenos días, ¿en qué le podemos ayudar?
+- - buenos dias
+  - Buenos días, ¿en qué le podemos ayudar?
+- - buenas tardes necesito ayuda
+  - Buenas tardes, ¿en qué le podemos ayudar?
+- - buenas tardes
+  - Buenas tardes, ¿en qué le podemos ayudar?
+- - buenas noches necesito ayuda
+  - Buenas noches, ¿en qué le podemos ayudar?
+- - buenas noches
+  - Buenas noches, ¿en qué le podemos ayudar?
+- - hola
+  - Hola, ¿en qué le podemos ayudar?
+- - hola que tal
+  - Hola, ¿en qué le podemos ayudar?
+- - hola necesito ayuda
+  - Hola, ¿en qué le podemos ayudar?
+- - hola chatbot
+  - Hola, ¿en qué le podemos ayudar?
+- - buenas
+  - Hola, ¿en qué le podemos ayudar?
+- - saludos
+  - Saludos, ¿en qué le podemos ayudar?
+- - oye
+  - Hola, ¿en qué le podemos ayudar?
+- - chatbot
+  - Digame ¿en qué le podemos ayudar?
+- - maquina
+  - ¿Si?, ¿en qué le podemos ayudar?
+- - buen dia
+  - Buenos días
+- - buena tarde
+  - Buenas tardes
+  
+# despedidas
+
+- - hasta luego
+  - Hasta luego, fue un placer atenderle
+- - chao
+  - Chao, fue un placer atenderle
+- - bye
+  - Bye, fue un placer atenderle
+- - tenga un buen dia
+  - Gracias, igualmente
+
+# agradecimientos
+
+- - gracias
+  - No hay de que, ¿le puedo ayudar en algo más?
+- - muchas gracias
+  - No hay de que, ¿le puedo ayudar en algo más?
+- - te agradezco mucho
+  - Estamos para servirle
+- - mil gracias
+  - Fue un placer
+- - te agradezco
+  - No hay de que, ¿le puedo ayudar en algo más?
+  
